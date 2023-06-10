@@ -1,2 +1,2 @@
-# TweakGpt
-A ChatGpt clone with enhanced features
+# TweakGPT
+A ChatGPT clone with enhanced features
